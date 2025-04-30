@@ -11,10 +11,11 @@ Steps to Run:
 5) Navigate to MyfirstwebappApplication.java and run it as a Java application.
 6) Open your web browser and go to: http://localhost:8080/
 7) Use the following credentials:
+   
    Username: harshit
    
    Password: dummy
-8) Explore the application!
+9) Explore the application!
 
    video tutorial - 
 
