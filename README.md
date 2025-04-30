@@ -14,4 +14,4 @@ Steps to Run:
    Password: dummy
 7) Explore the application!
 
-   
+   ![Image](https://github.com/user-attachments/assets/068295a8-5191-42de-9399-7e4100d8dce9)
