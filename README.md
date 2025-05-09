@@ -1,6 +1,6 @@
 Todo List Manager Web Application
 
-A Java Spring Boot Backend Project
+A Java Spring Boot Project
 
 Steps to Run:
 1) Download and extract the ZIP file, then open the project as a Maven project in Eclipse or IntelliJ IDEA.
